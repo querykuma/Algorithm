@@ -1,0 +1,8 @@
+*.txt
+.cache/
+.vscode/
+dist/
+package-lock.json
+out/
+*.png
+coverage/
